@@ -1,0 +1,8 @@
+faster_whisper==1.0.0
+ffmpeg_python==0.2.0
+google_api_python_client==2.131.0
+langflow==1.0.15
+pandas==1.5.3
+python-dotenv==1.0.1
+pytubefix==6.11.0
+tinydb==4.8.0
